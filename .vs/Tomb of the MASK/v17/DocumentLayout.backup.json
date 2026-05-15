@@ -1,0 +1,1418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\pause.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\pause.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\finishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\finishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\borring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\borring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\pause.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\pause.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\howplay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\howplay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\menulvl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\menulvl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\menulvl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\menulvl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\globalvariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\globalvariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\srmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\srmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\speedrunmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\speedrunmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\notfinishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\notfinishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\borring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\borring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\credits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\credits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\credits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\credits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\howplay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\howplay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\speedrunmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\speedrunmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\notfinishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\notfinishsm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\nflvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\nflvl3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\lvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\lvl1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\flvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\flvl4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|c:\\users\\pedro\\desktop\\projetos\\tomb of the mask\\tomb of the mask\\tomb of the mask\\srmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D54299E2-FCEE-4F01-8C28-66436A8E626E}|Tomb of the MASK\\Tomb of the MASK.vbproj|solutionrelative:tomb of the mask\\srmode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 249,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Lvl1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl1.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl1.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:47:25.473Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Lvl2.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl2.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl2.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:48.118Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Lvl3.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl3.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl3.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:53.151Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Lvl4.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl4.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl4.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:55.265Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Lvl5.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl5.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl5.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:56.221Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Lvl6.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl6.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl6.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:57.199Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalVariables.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\GlobalVariables.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\GlobalVariables.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\GlobalVariables.vb",
+              "RelativeToolTip": "Tomb of the MASK\\GlobalVariables.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-14T14:34:01.397Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Lvl7.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl7.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl7.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:58.271Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Lvl8.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl8.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl8.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:48:59.195Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Menu.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Menu.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Menu.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Menu.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Menu.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:36.461Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Lvl9.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl9.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl9.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:00.096Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "NFlvl10.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl10.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl10.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:40.682Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NFlvl9.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl9.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl9.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:52.356Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "NFlvl8.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl8.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl8.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:50.745Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "NFlvl7.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl7.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl7.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:49.579Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NFlvl6.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl6.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl6.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:48.24Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "NFlvl5.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl5.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl5.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:47.159Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "NFlvl4.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl4.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl4.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:44.766Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "NFlvl3.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl3.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl3.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:43.373Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "NFlvl2.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl2.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl2.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:42.038Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NFlvl1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl1.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl1.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:39.339Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuLvl.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\MenuLvl.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\MenuLvl.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\MenuLvl.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\MenuLvl.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-09T22:24:53.739Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotFinishSM.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NotFinishSM.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NotFinishSM.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NotFinishSM.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\NotFinishSM.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T21:49:53.551Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Options.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Options.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Options.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Options.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Options.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-14T12:19:13.34Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pause.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Pause.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Pause.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Pause.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Pause.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-02T22:49:11.592Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Settings.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Settings.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Settings.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Settings.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Settings.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-07T16:38:16.992Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpeedRunMode.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SpeedRunMode.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\SpeedRunMode.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SpeedRunMode.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\SpeedRunMode.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-26T14:56:09.831Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SRMODE.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SRMODE.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\SRMODE.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SRMODE.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\SRMODE.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-07T15:37:55.558Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Flvl1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl1.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl1.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:22.825Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Flvl9.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl9.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl9.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:32.991Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Flvl2.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl2.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl2.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:25.22Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Flvl3.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl3.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl3.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:26.174Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Flvl4.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl4.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl4.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:27.29Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Flvl5.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl5.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl5.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:28.199Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Flvl6.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl6.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl6.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:29.203Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Flvl7.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl7.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl7.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:30.339Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Flvl10.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl10.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl10.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:24.124Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flvl8.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl8.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl8.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:19:31.455Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinishSM.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\FinishSM.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\FinishSM.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\FinishSM.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\FinishSM.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T12:11:31.527Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Lvl10.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl10.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl10.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T18:54:25.663Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HowPlay.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\HowPlay.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\HowPlay.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\HowPlay.vb",
+              "RelativeToolTip": "Tomb of the MASK\\HowPlay.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:22:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HowPlay.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\HowPlay.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\HowPlay.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\HowPlay.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\HowPlay.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:02:42.208Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Settings.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Settings.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Settings.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Settings.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:02:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pause.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Pause.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Pause.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Pause.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Pause.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T22:27:12.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lvl10.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl10.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl10.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T18:54:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lvl9.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl9.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl9.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T18:29:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lvl8.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl8.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl8.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T18:15:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lvl6.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl6.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl6.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwLIDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T17:06:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lvl7.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl7.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl7.vb",
+              "ViewState": "AgIAAAsFAAAAAAAAAAAqwB8FAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T17:06:40.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lvl5.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl5.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl5.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwv/MHAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T16:36:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Borring.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Borring.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Borring.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Borring.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\Borring.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:23:46.316Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lvl3.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl3.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl3.vb",
+              "ViewState": "AgIAAOQGAAAAAAAAAAAAALkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T14:55:43.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borring.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Borring.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Borring.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Borring.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Borring.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:29:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "credits.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\credits.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\credits.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\credits.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\credits.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:29:56.701Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "credits.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\credits.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\credits.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\credits.vb",
+              "RelativeToolTip": "Tomb of the MASK\\credits.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:29:58.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "About.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\About.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\About.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\About.vb [Projeto]",
+              "RelativeToolTip": "Tomb of the MASK\\About.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:31:49.161Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "About.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\About.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\About.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\About.vb",
+              "RelativeToolTip": "Tomb of the MASK\\About.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T23:33:09.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lvl4.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl4.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl4.vb",
+              "ViewState": "AgIAAAsFAAAAAAAAAAA8wCEFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T16:19:53.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "NotFinishSM.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NotFinishSM.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NotFinishSM.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NotFinishSM.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NotFinishSM.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T11:53:05.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NFlvl10.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl10.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl10.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NFlvl9.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl9.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl9.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NFlvl8.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl8.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl8.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NFlvl7.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl7.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl7.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NFlvl6.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl6.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl6.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:26.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NFlvl5.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl5.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl5.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NFlvl4.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl4.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl4.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NFlvl3.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl3.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NFlvl2.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl2.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl2.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:36:03.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "NFlvl1.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\NFlvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\NFlvl1.vb",
+              "RelativeToolTip": "Tomb of the MASK\\NFlvl1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:53.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Flvl10.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl10.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl10.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl10.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl10.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Flvl9.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl9.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl9.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl9.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl9.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Flvl8.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl8.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl8.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl8.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl8.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:36.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Flvl7.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl7.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl7.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl7.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl7.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Flvl6.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl6.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl6.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl6.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl6.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Flvl5.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl5.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl5.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl5.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl5.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:21.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Flvl4.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl4.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl4.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl4.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Flvl3.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl3.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl3.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl3.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl3.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA8wA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:35:12.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Flvl1.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl1.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:34:59.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lvl2.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl2.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl2.vb",
+              "ViewState": "AgIAAAYFAAAAAAAAAAA8wBsFAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:29:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Flvl2.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl2.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Flvl2.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Flvl2.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Flvl2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:26:14.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuLvl.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\MenuLvl.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\MenuLvl.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\MenuLvl.vb",
+              "RelativeToolTip": "Tomb of the MASK\\MenuLvl.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T10:09:34.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lvl1.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl1.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\Lvl1.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\Lvl1.vb",
+              "RelativeToolTip": "Tomb of the MASK\\Lvl1.vb",
+              "ViewState": "AgIAAAoFAAAAAAAAAAAqwBwFAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T22:56:20.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SRMODE.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SRMODE.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\SRMODE.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SRMODE.vb",
+              "RelativeToolTip": "Tomb of the MASK\\SRMODE.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T22:03:08.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SpeedRunMode.vb",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SpeedRunMode.vb",
+              "RelativeDocumentMoniker": "Tomb of the MASK\\SpeedRunMode.vb",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\projetos\\Tomb Of The Mask\\Tomb Of The Mask\\Tomb of the MASK\\SpeedRunMode.vb",
+              "RelativeToolTip": "Tomb of the MASK\\SpeedRunMode.vb",
+              "ViewState": "AgIAAAEFAAAAAAAAAAAuwBoFAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T18:12:22.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

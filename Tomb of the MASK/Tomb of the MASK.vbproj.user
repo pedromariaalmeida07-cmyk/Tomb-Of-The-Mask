@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Arcade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Borring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="credits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinishSM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flvl9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HowPlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lvl9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuLvl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NFlvl9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotFinishSM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pause.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpeedRunMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SRMODE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

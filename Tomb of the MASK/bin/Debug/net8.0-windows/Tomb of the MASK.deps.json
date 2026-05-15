@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tomb of the MASK/1.0.0": {
+        "runtime": {
+          "Tomb of the MASK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tomb of the MASK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

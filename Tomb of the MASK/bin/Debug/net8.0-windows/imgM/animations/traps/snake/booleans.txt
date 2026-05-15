@@ -1,0 +1,4 @@
+direction e sense = false: direita e horizontal 
+direction e sense = true: baixo para cima e vertical
+direction = true e sense = false: esquerda e horizontal 
+direction = false e sense = true: cima para baixo e vertical 

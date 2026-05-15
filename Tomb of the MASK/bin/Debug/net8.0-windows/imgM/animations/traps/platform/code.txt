@@ -1,0 +1,116 @@
+ Private WithEvents PlatfMoveTimer As New Timer()
+ Private WithEvents PlatfAnimationTimer As New Timer()
+
+
+
+
+ 'plataforma 
+ Private PlatfImage() As Image
+ Private PlatfImageIndex As Integer = 0
+
+
+
+
+ PlatfMoveTimer.Interval = 150
+ PlatfAnimationTimer.Interval = 50
+ PlatfMoveTimer.Start()
+ PlatfAnimationTimer.Start()
+
+
+
+
+#Region "Mov plataforma"
+    Private currentPlatfImage As Image
+    Private PlatfX As Integer = 13 * gridSize   ' posição inicial na coluna 13
+    Private PlatfY As Integer = 1 * gridSize      ' linha fixa para a plataforma (ajuste conforme necessário)
+    Private PlatfDirection As Integer = 1         ' 1 para mover para a direita, -1 para mover para a esquerda
+    Private Const platfSpeed As Integer = 2
+#End Region
+
+
+
+
+'Plataforma
+PlatfImage = New Image(2) {}
+PlatfImage(0) = Image.FromFile("imgM\animations\traps\platform\p1.png")
+PlatfImage(1) = Image.FromFile("imgM\animations\traps\platform\p2.png")
+PlatfImage(2) = Image.FromFile("imgM\animations\traps\platform\p3.png")
+currentPlatfImage = PlatfImage(0)
+
+
+
+
+        g.DrawImage(currentPlatfImage, PlatfX, PlatfY, gridSize, gridSize)
+
+
+
+
+  Private Function IsPlatformCell(x As Integer, y As Integer) As Boolean
+      Dim platfCellX As Integer = PlatfX \ gridSize
+      Dim platfCellY As Integer = PlatfY \ gridSize
+      Return x = platfCellX AndAlso y = platfCellY
+  End Function
+
+
+
+
+ Private Function IntersectsWithPlatform(x As Integer, y As Integer) As Boolean
+     Dim playerRect As New Rectangle(x, y, gridSize, gridSize)
+     Dim platformRect As New Rectangle(PlatfX, PlatfY, gridSize, gridSize)
+     Return playerRect.IntersectsWith(platformRect)
+ End Function
+
+
+
+
+
+Private Sub PlatfAnimationTimer_Tick(sender As Object, e As EventArgs) Handles PlatfAnimationTimer.Tick
+    PlatfImageIndex = (PlatfImageIndex + 1) Mod PlatfImage.Length
+    currentPlatfImage = PlatfImage(PlatfImageIndex)
+    Me.Invalidate()
+End Sub
+
+Private Sub PlatfMoveTimer_Tick(sender As Object, e As EventArgs) Handles PlatfMoveTimer.Tick
+    Dim minPlatfX As Integer = 13 * gridSize
+    Dim maxPlatfX As Integer = 25 * gridSize
+
+    Dim deltaX As Integer = platfSpeed * PlatfDirection
+    Dim newPlatfX As Integer = PlatfX + deltaX
+
+    ' Se ultrapassar os limites horizontais, inverte a direção.
+    If newPlatfX < minPlatfX OrElse newPlatfX > maxPlatfX Then
+        PlatfDirection *= -3
+        deltaX = platfSpeed * PlatfDirection
+        newPlatfX = PlatfX
+    End If
+
+    PlatfX = newPlatfX
+
+    ' Se o player estiver em contato com a plataforma, mova-o junto.
+    If IsPlayerOnPlatform() Then
+        playerX += deltaX
+        playerX = Math.Max(0, Math.Min(playerX, (gridWidth - 1) * gridSize))
+    End If
+
+    Me.Invalidate()
+End Sub
+
+' --- Função para detectar se o player está sobre a plataforma ---
+Private Function IsPlayerOnPlatform() As Boolean
+    Dim tol As Integer = 5
+    Dim playerLeft As Integer = playerX
+    Dim playerRight As Integer = playerX + gridSize
+    Dim playerTop As Integer = playerY
+    Dim playerBottom As Integer = playerY + gridSize
+
+    Dim platfLeft As Integer = PlatfX
+    Dim platfRight As Integer = PlatfX + gridSize
+    Dim platfTop As Integer = PlatfY
+    Dim platfBottom As Integer = PlatfY + gridSize
+
+    ' Verifica se há sobreposição ou se os limites estão a no máximo tol pixels de distância.
+    Dim horizontalOverlap As Boolean = (playerRight >= platfLeft - tol) AndAlso (playerLeft <= platfRight + tol)
+    Dim verticalOverlap As Boolean = (playerBottom >= platfTop - tol) AndAlso (playerTop <= platfBottom + tol)
+
+    Return horizontalOverlap AndAlso verticalOverlap
+End Function

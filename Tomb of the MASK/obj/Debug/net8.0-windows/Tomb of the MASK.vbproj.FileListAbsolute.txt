@@ -1,0 +1,203 @@
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.exe
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.deps.json
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.runtimeconfig.json
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Form1.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Masks.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Menu.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.MenuLvl.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Resources.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.GenerateResource.cache
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfoInputs.cache
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfo.vb
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.CoreCompileInputs.cache
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.genruntimeconfig.cache
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\ref\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl1.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Options.resources
+C:\Users\ruisa\Desktop\Tomb of the MASK\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Arcade.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.exe
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.deps.json
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.runtimeconfig.json
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Arcade.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Form1.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl1.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Masks.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Menu.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.MenuLvl.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Resources.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Options.resources
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.GenerateResource.cache
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfoInputs.cache
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfo.vb
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.CoreCompileInputs.cache
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.genruntimeconfig.cache
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\ref\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v10(atual)-20250225T132729Z-001\v10(atual)\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SpeedRunMode.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.exe
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.deps.json
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.runtimeconfig.json
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Arcade.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Form1.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl1.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Masks.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Menu.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.MenuLvl.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Resources.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Options.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SpeedRunMode.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.GenerateResource.cache
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfoInputs.cache
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfo.vb
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.CoreCompileInputs.cache
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.genruntimeconfig.cache
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\ref\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Pause.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SRMODE.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Settings.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Borring.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.FinishSM.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NotFinishSM.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl2.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl2.resources
+C:\Users\ruisa\Desktop\v10\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl2.resources
+C:\Users\pedro\Downloads\v16-20250313T190655Z-001\v16\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\pedro\Downloads\v16-20250313T190655Z-001\v16\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\pedro\Downloads\v16-20250313T190655Z-001\v16\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Arcade.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Borring.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.FinishSM.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl1.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl10.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl2.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl3.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl4.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl5.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl6.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl7.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl8.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl9.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Form1.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl1.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl10.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl2.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl3.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl4.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl5.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl6.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl7.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl8.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl9.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Masks.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Menu.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.MenuLvl.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Resources.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl1.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl10.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl2.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl3.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl4.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl5.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl6.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl7.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl8.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl9.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NotFinishSM.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Options.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Pause.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Settings.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SpeedRunMode.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SRMODE.resources
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.GenerateResource.cache
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfoInputs.cache
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfo.vb
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.CoreCompileInputs.cache
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.exe
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.deps.json
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.runtimeconfig.json
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.genruntimeconfig.cache
+C:\Users\ruisa\Downloads\v18-20250313T213614Z-001\v18\Tomb of the MASK\obj\Debug\net8.0-windows\ref\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.exe
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.deps.json
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.runtimeconfig.json
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\bin\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Arcade.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Borring.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.FinishSM.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl1.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl10.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl2.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl3.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl4.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl5.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl6.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl7.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl8.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Flvl9.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Form1.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl1.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl10.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl2.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl3.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl4.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl5.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl6.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl7.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl8.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Lvl9.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Menu.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.MenuLvl.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Resources.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl1.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl10.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl2.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl3.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl4.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl5.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl6.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl7.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl8.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NFlvl9.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.NotFinishSM.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Options.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Pause.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.Settings.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SpeedRunMode.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.SRMODE.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.GenerateResource.cache
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfoInputs.cache
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.AssemblyInfo.vb
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.vbproj.CoreCompileInputs.cache
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\refint\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.pdb
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb of the MASK.genruntimeconfig.cache
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\ref\Tomb of the MASK.dll
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.About.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.credits.resources
+C:\Users\ruisa\Desktop\v19\Tomb of the MASK\obj\Debug\net8.0-windows\Tomb_of_the_MASK.HowPlay.resources
