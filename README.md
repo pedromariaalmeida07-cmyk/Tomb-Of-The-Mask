@@ -40,7 +40,7 @@ Este projeto inclui: movimento com rastro, armadilhas animadas, física própria
 - Todas as imagens e sons na pasta `imgM`
 - Resolução full HD com escala de 125%
 
-## Controles
+## Controlos
 
 - **WASD** ou **Setas** → Movimento
 - **ESC** → Pausa
